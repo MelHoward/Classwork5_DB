@@ -1,0 +1,14 @@
+﻿<Window x:Class="Classwork5_DB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Classwork5_DB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFBFC3CE">
+        <TextBox x:Name="ShowText" HorizontalAlignment="Left" Height="211" Margin="125,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="532"/>
+        <Button x:Name="ViewAssets" Content="See Assets&#xD;&#xA;" HorizontalAlignment="Left" Margin="125,82,0,0" VerticalAlignment="Top" Width="143" Height="42" Click="Button_Click" BorderThickness="1,0,1,1" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="24" FontWeight="Bold"/>
+        <Button x:Name="ViewEmployees" Content="View Employees" HorizontalAlignment="Left" Margin="473,82,0,0" VerticalAlignment="Top" Width="184" Height="42" FontSize="22" FontWeight="Bold" Click="ViewEmployees_Click"/>
+    </Grid>
+</Window>

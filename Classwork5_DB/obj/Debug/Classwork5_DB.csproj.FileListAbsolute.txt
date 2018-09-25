@@ -1,0 +1,17 @@
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\bin\Debug\Classwork5.mdb
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\bin\Debug\Classwork5_DB.exe.config
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\bin\Debug\Classwork5_DB.exe
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\bin\Debug\Classwork5_DB.pdb
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB.csprojAssemblyReference.cache
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\MainWindow.g.cs
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\App.g.cs
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB_Content.g.cs
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB_MarkupCompile.cache
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB_MarkupCompile.lref
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\MainWindow.baml
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB.g.resources
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB.Properties.Resources.resources
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB.csproj.GenerateResource.cache
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB.csproj.CoreCompileInputs.cache
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB.exe
+D:\Documents\_SWENG\HW\Classwork5\Classwork5_DB\Classwork5_DB\obj\Debug\Classwork5_DB.pdb
